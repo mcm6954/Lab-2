@@ -2,7 +2,6 @@
 CSAP/X Mondrian recursion lab
 Author: RIT CS
 Author: Mia McSwain
-Instructor: Sean Strout
 
 Student starter code for the mondrian square lab.  It prompts for a depth of
 recursion (between 1-8) and random subdivisions, and recursively generates
